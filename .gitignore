@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# Testing
+.pytest_cache/
+
+# Streamlit specific
+.streamlit/
+
+# Note: The Data/ folder is deliberately NOT ignored because the Streamlit
+# app requires the CSV files to run and the raw dataset is small enough (~7MB).

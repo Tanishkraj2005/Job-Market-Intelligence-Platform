@@ -1,0 +1,71 @@
+skills:
+
+  - python
+  - sql
+  - r
+  - java
+  - scala
+  - javascript
+  - bash
+  - vba
+  - c++
+  - c#
+
+  - excel
+  - tableau
+  - power bi
+  - looker
+  - qlik
+  - alteryx
+
+  - sas
+  - spss
+  - statistics
+
+  - aws
+  - azure
+  - gcp
+
+  - hadoop
+  - spark
+  - kafka
+  - hive
+  - snowflake
+  - redshift
+  - bigquery
+  - databricks
+  - dbt
+  - airflow
+
+  - nosql
+  - mongodb
+  - cassandra
+  - postgresql
+  - mysql
+  - oracle
+  - sql server
+
+  - pandas
+  - numpy
+  - scikit-learn
+  - tensorflow
+  - pytorch
+
+  - machine learning
+  - deep learning
+  - nlp
+  - data visualization
+
+  - git
+  - docker
+  - kubernetes
+  - jenkins
+  - jira
+  - confluence
+
+  - communication
+  - leadership
+  - problem solving
+  - presentation
+  - project management
+  - agile
